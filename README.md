@@ -5,6 +5,7 @@ HTML5 Code:
 <!DOCTYPE html>
   <head>
     <title>Page Tile</title>
+    <link rel="stylesheet" type="text/css" href="mystyle.css" />
   </head>
   <body>
     <h1>Title</h1>
